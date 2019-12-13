@@ -307,3 +307,10 @@ nav a {
   background-color: #17A2B8;
   border-radius: 12px;
 }
+.home form {
+  width: 100%;
+  font-size: 1.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
